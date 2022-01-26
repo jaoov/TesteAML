@@ -35,7 +35,9 @@ J – É possível identificar a data e o valor das movimentações financeiras 
   R: Sim, em todas as movimentações do CPGF é possível identificar a data com o ano/mês e também o valor da transação.
 
 K (código) – Qual a soma total das movimentações utilizando o CPGF?
+  R: 5619007.95
 L (código) – Qual a soma das movimentações sigilosas ?
+  R: 3108731.15
 M (código) – Qual o Órgão que mais realizou movimentações sigilosas no período e qual o valor (somado)?
 N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma
 dos saques realizados por ele? Qual o nome do Órgão desse portador?
