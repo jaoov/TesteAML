@@ -36,11 +36,15 @@ J – É possível identificar a data e o valor das movimentações financeiras 
 
 K (código) – Qual a soma total das movimentações utilizando o CPGF?
   R: 5619007.95
+
 L (código) – Qual a soma das movimentações sigilosas ?
   R: 3108731.15
+
 M (código) – Qual o Órgão que mais realizou movimentações sigilosas no período e qual o valor (somado)?
+
 N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma
 dos saques realizados por ele? Qual o nome do Órgão desse portador?
+
 O (código) – Qual o nome do favorecido que mais recebeu compras realizadas utilizando o CPGF?
 
 P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
