@@ -1,8 +1,7 @@
 package entities;
 
-import java.io.Serializable;
+public class Cpgf {
 
-public class Cpgf implements Serializable {
     private static final long serialVersionUID = 1L;
 
     private String codigoOrgaoS;
@@ -163,24 +162,4 @@ public class Cpgf implements Serializable {
         //this.valorTransacao = valorTransacao;
     }
 
-    @Override
-    public String toString() {
-        return "Cpgf{" +
-                "codigoOrgaoS='" + codigoOrgaoS + '\'' +
-                ", nomeOrgaoS='" + nomeOrgaoS + '\'' +
-                ", codigoOrgao='" + codigoOrgao + '\'' +
-                ", nomeOrgao='" + nomeOrgao + '\'' +
-                ", codigoUnidadeG='" + codigoUnidadeG + '\'' +
-                ", nomeUnidadeG='" + nomeUnidadeG + '\'' +
-                ", anoExtrato='" + anoExtrato + '\'' +
-                ", mesExtrato='" + mesExtrato + '\'' +
-                ", cpfPortador='" + cpfPortador + '\'' +
-                ", nomePortador='" + nomePortador + '\'' +
-                ", cnpjCpfFavorecido='" + cnpjCpfFavorecido + '\'' +
-                ", nomeFavorecido='" + nomeFavorecido + '\'' +
-                ", trasacao='" + trasacao + '\'' +
-                ", dataTransacao='" + dataTransacao + '\'' +
-                ", valorTransacao=" + valorTransacao +
-                '}';
-    }
 }
